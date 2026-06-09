@@ -16,4 +16,5 @@ public class CinemaBookingApplication {
         SpringApplication.run(CinemaBookingApplication.class, args);
     }
 
+    
 }
