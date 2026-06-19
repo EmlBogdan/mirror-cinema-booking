@@ -63,7 +63,7 @@ spring:
     activate:
       on-profile: dev
   datasource:
-    url: jdbc:postgresql://localhost:5432/cinemadb
+    url: jdbc:postgresql://3.80.158.151:5432/cinema_booking_db
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
